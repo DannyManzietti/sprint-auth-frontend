@@ -1,0 +1,11 @@
+.product {
+  transition: 0.2s ease-in-out;
+  margin: 10px; }
+  .product .details {
+    display: inline-block; }
+  .product .title {
+    font-weight: bold;
+    margin: 10px 0 0 25px; }
+  .product .price {
+    margin-left: 25px;
+    padding: 5px 0; }

@@ -1,0 +1,26 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  padding: 0 100px;
+  margin-bottom: 20px;
+
+  background: #4b7aa3;
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 30px 20px;
+
+    span {
+      display: inline-block;
+      position: relative;
+      top: -8px;
+      left: 0px;
+      font-weight: bold;
+      line-height: 18px;
+      text-align: center;
+      border-radius: 100%;
+      width: 20px;
+      height: 20px;
+    }
+  }
+}
